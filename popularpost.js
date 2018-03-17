@@ -26,7 +26,7 @@ $('.slider-nav').slick({
   slidesToShow: 4,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 2000,
+  autoplaySpeed: 4000,
   responsive: [
     {
       breakpoint: 1024,
