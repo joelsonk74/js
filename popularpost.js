@@ -23,10 +23,10 @@ $('.slider-nav').slick({
   dots: false,
   infinite: true,
   speed: 300,
-  slidesToShow: 6,
+  slidesToShow: 4,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 8000,
+  autoplaySpeed: 15000,
   responsive: [
     {
       breakpoint: 1024,
